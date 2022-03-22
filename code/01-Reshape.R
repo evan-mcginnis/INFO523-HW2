@@ -1,6 +1,7 @@
 ### 01-Reshape.R
 # install.packages("reshape2")
 # library(reshape2)
+# INFO523 HW 2 Addition
 
 ## Tidy data
 
